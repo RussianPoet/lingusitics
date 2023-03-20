@@ -1,0 +1,131 @@
+It has no application, i am doing it for fun.
+
+--------1.
+There are three types of relationships between actions or action and period of time.
+
+We can indicate them by using a single letter for each type and so make language easier & shorter.
+All indicators of tenses can be replaced by "now" + one of these letters.
+
+1) 
+A thing happened/will happen after another thing happened or a thing happened/will happen after a period of time.
+"A" stands for after.
+
+We can use "A" to delete past/future simple/perfect, before, after, then, a case of "by", some phrases:
+
+i will buy icecream --> now A i buy icecream ("now A" replaces the future tense)
+i bought icecream --> i buy icecream A now ("A now" replaces the past tense)
+
+"I had completed my work before you arrived." --> "I complete my work A you arrive A now"
+I will have cleaned my room before my parents come home --> now A I clean my room A my parents come home
+We'll leave after lunch --> now A lunch A We leave	            
+Please send us the payment by tomorrow --> Please send us the payment A tomorrow
+I'll throw the ball, then it will be your turn --> now A I throw the ball A it is your turn
+
+It's past 7:00 --> 7:00 A now 	
+He got to the shop later than she did --> She get to the shop A he do A now
+Colombia needs reform sooner than that --> Colombia needs reform A that
+
+2)
+A thing happened because another thing happened.
+"C" stands for consequence.
+
+We can use "C" to delete a case of "Past Perfect", so, because, due to, thanks to, a case of "since, after, as", why, 
+			 some verb prepositions, some verbs, some phrases:
+
+I had done my homework, so I went to visit a friend --> I do my homework C I go to visit a friend A now
+I like you because you are kind --> you are kind C i like you
+The traffic jam was due to a terrible accident at the intersection --> a terrible accident at the intersection C the traffic jam A now
+Jonh has been saved thanks to one little boy's bravery --> one little boy's bravery C Jonh is saved A now
+
+Since they were all dressed up, she assumed they were going to church together --> they are all dressed up C she assume they are going to church together A now
+He decided to go to the conference in Barcelona, as he was in Spain anyway --> he is in Spain anyway C he decide to go to the conference in Barcelona A now
+After winning the prize she became famous --> she win the prize C she become famous A now
+
+(the fact that there's no action before "C" means the speaker doesn't know what comes 
+before, and so the listener can add it)
+"Why are you going home? - Because i am tired" --> " C you are going home - i am tired"
+
+I apologize for my husband --> my husband C i apologize
+She congratulated us on our test results --> our test results C she congratulate us A now
+The girls giggled at the joke --> the joke C the girls giggle A now
+etc.
+
+Obesity Stems From Racism --> Racism C Obesity 
+The flood caused great hardship --> The flood C great hardship A now
+His volunteer work in the hospital led to a career in nursing --> His volunteer work in the hospital C a career in nursing A now
+etc.
+
+He still felt responsible for her death --> her death C he still feel responsible A now
+She may be guilty of murder --> maybe she C murder
+For some reason, the curtains were shut —> C the curtains are shut A now 
+For some inexplicable reason she was attracted to Patrick —> C she is attracted to Patrick A now
+For no reason at all men started to laugh --> C men start to laugh A now
+
+3)
+Combining 1) and 2)
+
+Deleting second/third conditionals:
+
+if i won the lottery, i would travel a lot —> if now A i win the lottery C i travel a lot
+if you had studied, you would have passed the exam --> if you study C you pass the exam A now
+
+4)
+A thing is happening while another thing is happening or a thing is happening during a period of time.
+"P" stands for parallel.
+
+We can use "P" to delete when, while, meanwile, as, during, on, at, in, 
+	                 tenses when period indicated:
+
+She came to my house when I was taking my dinner --> I take my dinner P she come to my house A now
+When are you going on holiday? - This saturday. --> P you are going on holiday? - This saturday.
+You can set the table. Meanwhile, I'll start making dinner. --> You can set the table P I start making dinner
+As I was walking down the street, I saw Julie --> I walk down the street P I see Julie A now
+I will be washing the car when he leaves --> now A I wash the car P he leave 
+
+She swims every day during the summer --> she swim every day P the summer
+Her birthday is on 20 November --> Her birthday P 20 November
+The stars shine at night --> The stars shine P night
+
+The astronauts explored the moon in the 1960s --> The astronauts explore the moon P 1960s
+Next year i will buy a house --> Next year P i buy a house
+I have just done my work --> I do my work P just
+etc.
+
+--------2.
+Small things
+
+1)
+We can change "I've been swimming since I was three." to "I swim since I was three." 
+
+"i swim" refers to the fact that i swim now and "since" refers to the fact it started happening when i was three and
+there's no indication that it stopped happening so we assume it still happens. If we wanted to indicate it ended we could
+say "i swimmed since i was three".
+
+2)
+"he does it in his usual manner"
+There are two indications of "he" in a single sentence. First is "he" itself, second is "+es".
+--> "he do it in his usual manner"
+
+3)
+"I see two cats"
+There are two indications of the fact that the word "cat" is plural. First is "two", second is "+s".
+--> "I see two cat" 
+
+4) 
+In order to shorten interrogative sentences verb and pronoun can be swapped. Example: "have you seen him?".
+For some reason english doesn't use this technique for Simple Present/Past.
+
+Examples:
+"did you like me?" --> "liked you me?"
+"do you like me?" --> "like you me?"
+
+5)
+Replace "there's" by "to have"
+
+There is a sofa in the room --> in the room has a sofa
+there are two chairs near the table --> near the table has two chairs 
+
+You can see them as "the place near the table has two chairs", "the place in the room has a sofa".
+
+Also:
+There is something important to deal with --> i/we(depends on the context) have something important to deal with

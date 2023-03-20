@@ -1,0 +1,44 @@
+It has no application, i am doing it for fun.
+
+1)
+Deconstructing words 
+
+man = a male person
+father = a man who has one or more kids = a male person who has one or more kids
+
+You can also decontstruct some prases:
+
+donate money --> spend money to help somebody 
+pay money--> spend money to get something in exchange
+invest money --> spend money to earn more money
+
+
+2)
+Drawing a words tree
+
+person
+       --> nobel laureate
+       --> man
+               --> father
+               --> waiter
+               --> husband
+                           --> widower
+       --> woman
+               --> mother
+               --> waitress
+               --> wife
+                           --> widow
+
+
+3)
+Invent words using the same logic
+
+Examples: 
+  obl = a hardworking person 
+  loorl = a very tall person who can do a triple backflip 
+  tapel = spend money to get something useless in exchange 
+
+Examples of use cases:
+  Elon Musk is a real obl, he works 8 days a week.
+  I can't believe loorls exist.
+  She tapeled $1 million for a roll of gold toilet paper.
