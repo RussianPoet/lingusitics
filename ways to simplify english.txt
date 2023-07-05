@@ -1,13 +1,18 @@
-It has no application, i am doing it for fun.
+PURPOSE:
+	It can be used by whoever wants to write/read information faster.
+	I thought it could be useful for people like Steven Hawking as they write using their eyes.
+
+Before reading it, please understand that (time) or things like "3 am" can be converted to normal sentences like
+"my iphone shows 3 am", to sentences that include an object and an action performed by this object. 
 
 --------1.
-There are three types of relationships between actions or action and period of time.
+There are three types of relationships between actions/actions performed by some object.
 
 We can indicate them by using a single letter for each type and so make language easier & shorter.
 All indicators of tenses can be replaced by "now" + one of these letters.
 
 1) 
-A thing happened/will happen after another thing happened or a thing happened/will happen after a period of time.
+Something happened/will happen after something else happened.
 "A" stands for after.
 
 We can use "A" to delete past/future simple/perfect, before, after, then, a case of "by", some phrases:
@@ -70,7 +75,7 @@ if i won the lottery, i would travel a lot —> if now A i win the lottery C i t
 if you had studied, you would have passed the exam --> if you study C you pass the exam A now
 
 4)
-A thing is happening while another thing is happening or a thing is happening during a period of time.
+A thing is happening while another thing is happening.
 "P" stands for parallel.
 
 We can use "P" to delete when, while, meanwile, as, during, on, at, in, 
